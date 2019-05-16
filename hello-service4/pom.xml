@@ -8,10 +8,10 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.task</groupId>
-	<artifactId>task.service</artifactId>
+	<groupId>com.app</groupId>
+	<artifactId>hello.service4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>task-service</name>
+	<name>hello-service4</name>
 	<description>Demo project for Spring boot</description>
 
 	<properties>

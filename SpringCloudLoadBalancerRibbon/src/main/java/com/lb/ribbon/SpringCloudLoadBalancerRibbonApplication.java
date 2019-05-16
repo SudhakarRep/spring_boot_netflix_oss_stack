@@ -14,6 +14,8 @@ public class SpringCloudLoadBalancerRibbonApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCloudLoadBalancerRibbonApplication.class, args);
+		
 	}
+	
 
 }

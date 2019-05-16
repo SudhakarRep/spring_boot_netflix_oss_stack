@@ -24,8 +24,9 @@ public class Example1Controller {
     @ResponseBody
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String home() {
-        return "<a href='testCallAbcService'>/testCallAbcService</a>";
+        return "<a href='testCallAbcService'>/testCallAbcService</a> | <a href='hello'>/hello</a>";
     }
+
 
     @ResponseBody
     @RequestMapping(value = "/testCallAbcService", method = RequestMethod.GET)
